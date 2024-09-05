@@ -1,5 +1,5 @@
 {
   "llm.api_base": "https://api.openai.com/v1",
-  "llm.api_key": "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",
+  "llm.api_key": "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",
   "llm.model": "gpt-4-1106-preview"
 }
